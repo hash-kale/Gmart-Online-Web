@@ -37,7 +37,7 @@ export const About = () => {
           <div className="relative mt-12 lg:mt-0">
             <div className="aspect-[4/5] rounded-[2rem] md:rounded-[3rem] overflow-hidden shadow-2xl border border-white/10 max-w-md mx-auto lg:max-w-none">
               <img
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
+                src="https://lgwrc9xwufcexfj4.public.blob.vercel-storage.com/About-us/About%20us-gmat%20tech.jpg"
                 alt="Team working"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
