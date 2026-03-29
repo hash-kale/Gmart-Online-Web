@@ -10,28 +10,28 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "Forex Trading Platform",
+      category: "SaaS Development",
+      image: "https://lgwrc9xwufcexfj4.public.blob.vercel-storage.com/Projects-images/project-01-Invesyn%20%281%29.png",
+      desc: "Invesyn is a forex-first intelligence platform building skilled, disciplined traders through strategic training and long-term investment thinking."
+    },
+    {
+      title: "Gaming Platform",
       category: "Web Development",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&q=80",
-      desc: "A full-featured online store with inventory management and secure payments."
+      image: "https://lgwrc9xwufcexfj4.public.blob.vercel-storage.com/Projects-images/project-02-Jaya9web.png",
+      desc: "Elevate your experience with interactive mini-games and fortune wheels—where every play earns prizes and a chance at the top of the leaderboard."
     },
     {
-      title: "Fitness Tracker App",
-      category: "Mobile App",
-      image: "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=800&q=80",
-      desc: "Real-time activity tracking and health monitoring for active users."
+      title: "Omi4 Mobile Game",
+      category: "Mobile Game Development",
+      image: "https://lgwrc9xwufcexfj4.public.blob.vercel-storage.com/Projects-images/project-03-Omi4_mobile-game.png",
+      desc: "Experience the authentic Sri Lankan classic with Omi4: a vibrant, multiplayer mobile card game featuring seamless gameplay and global competition."
     },
     {
-      title: "Educational RPG Game",
-      category: "Game Development",
-      image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
-      desc: "An interactive learning experience through gamified challenges."
-    },
-    {
-      title: "Inventory Management System",
-      category: "Custom Software",
-      image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80",
-      desc: "Streamlined logistics and stock tracking for large-scale operations."
+      title: "Ludo-Arena Mobile Game",
+      category: "App Development",
+      image: "https://lgwrc9xwufcexfj4.public.blob.vercel-storage.com/Projects-images/project-04-ludoarena_mobile-game.png",
+      desc: "Experience the ultimate multiplayer board game: a strategic, mind-refreshing classic to enjoy with friends and family anytime."
     }
   ];
 
