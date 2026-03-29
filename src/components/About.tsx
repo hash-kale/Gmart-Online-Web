@@ -9,14 +9,14 @@ export const About = () => {
           <div className="text-center lg:text-left">
             <h2 className="text-xs font-black text-accent uppercase tracking-[0.3em] mb-6">About Us</h2>
             <h3 className="text-4xl md:text-6xl font-black mb-8 md:mb-10 leading-[1.1]">
-              Gmart Online (Pvt) Ltd: Sri Lanka's Tech Revolutionaries
+              Sri Lanka's Premier Tech Revolutionaries
             </h3>
             <div className="space-y-6 md:space-y-8 text-white/70 text-lg md:text-xl leading-relaxed font-medium max-w-2xl mx-auto lg:mx-0">
               <p>
-                Gmart Online (Pvt) Ltd is a Sri Lankan tech company specializing in custom software, mobile apps, game development, and web platforms.
+                Gmart Online Technologies specializes in developing cutting-edge mobile, web, and AI solutions designed to help businesses thrive. By merging innovation with user-centric design, we transform complex ideas into scalable, high-performance software that streamlines processes and enhances user experiences.
               </p>
               <p>
-                We turn ideas into efficient digital products with a focus on quality and user experience. We pride ourselves on understanding our clients' goals and delivering solutions that not only meet but exceed expectations.
+               As a premier tech hub, we are committed to delivering strategic tools for growth and digital transformation. We pride ourselves on exceeding expectations and turning visionary concepts into reality. Join us as we revolutionize the tech space, one digital solution at a time.
               </p>
               <p>
                 Join us on our journey to revolutionize the tech space! We aim to deliver solutions that drive growth, streamline processes, and enhance user experiences.
